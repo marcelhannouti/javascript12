@@ -5,6 +5,8 @@ function numero (...param){
     }
     numero("a","b","c","d","e")
 
-for (let index = 0; index < 6; index++) {
-console.log(index)    
+let i = 0
+while (i<5) {
+    i++
 }
+console.log(i)    
